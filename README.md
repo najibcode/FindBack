@@ -12,29 +12,6 @@ The visual brand identity and design patterns of the platform are inspired by th
 
 ---
 
-## 📄 Resume-Ready Section
-*Use the content below to add this project directly to your resume!*
-
-### Project Name:
-**FindBack – AI-Powered Lost & Found Platform**
-
-### Skills Used:
-- **Frontend Core:** React 19, JavaScript (ES6+), React Router v7, Vite
-- **Styling & UI/UX:** Tailwind CSS v3, Glassmorphism design, Custom CSS Backdrop-Filters, Lucide React icons
-- **Animations:** Framer Motion (Transitions, AnimatePresence, Hover States)
-- **Asset Processing:** Python (Pillow library for image transparency processing)
-- **Version Control & Tooling:** Git, GitHub, ESLint, PostCSS
-
-### Professional Bullet Points (Resume Description):
-* **Designed and developed** a responsive, high-fidelity Single Page Application (SPA) using **React 19**, **React Router v7**, and **Vite** to simulate an automated community lost-and-found system.
-* **Architected a modern glassmorphic user interface** utilizing **Tailwind CSS v3** and custom CSS backdrop-filters, implementing active/hover transitions and a responsive floating navigation bar.
-* **Integrated Framer Motion** to create micro-animations, loading sequences, and smooth page transitions, resulting in an enhanced and premium user experience.
-* **Implemented an intelligent matching simulation** that automatically cross-references lost and found reports, dynamically outputting match percentages, semantic status badges, and real-time alerts.
-* **Processed and optimized web assets** by writing a custom Python image processing script (using the **Pillow** library) to strip solid backdrops from logo graphics, generating transparent favicons.
-* **Employed Git for version control**, ensuring code modularity and clean repository structure, with successful production build optimization.
-
----
-
 ## ✨ Key Features
 
 - **🧠 Intelligent AI Matching Simulation:** Automatically scans reports to find potential matches, showing circular percentage indicators and status alerts.
