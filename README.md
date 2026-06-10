@@ -6,6 +6,8 @@
 [![React Router](https://img.shields.io/badge/React_Router-7.13.0-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.34.2-F1F?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
+🌐 **[Live Demo on Netlify: https://findback-rec.netlify.app](https://findback-rec.netlify.app)**
+
 FindBack is a premium, web application designed to help community members easily report, track, and recover lost belongings. The application simulates an intelligent matching engine that automatically cross-references lost and found reports, providing real-time alerts, match percentages, and a cohesive user experience.
 
 The visual brand identity and design patterns of the platform are inspired by the purple and gold branding of **Rajalakshmi Engineering College** (`rajalakshmi.org`).
