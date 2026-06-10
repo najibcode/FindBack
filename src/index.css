@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FFFFFF;
+    color: #1C1830;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    /* Subtle grid texture */
+    background-image: radial-gradient(rgba(124, 58, 237, 0.07) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+/* Premium glassmorphic card */
+.glass {
+  background-color: rgba(247, 245, 255, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(221, 214, 245, 0.6);
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px 0 rgba(124, 58, 237, 0.03);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F7F5FF;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C4B5FD;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #A78BFA;
+}
